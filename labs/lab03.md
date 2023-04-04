@@ -50,6 +50,7 @@ on:
 ```
 7. Commit the changes into the `main` branch
 8. Go to `Actions` and see the details of your running workflow
+9. force this lab 3 to run
 
 
 ## 3.2 Add a new workflow job to deploy to UAT environment
