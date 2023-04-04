@@ -38,3 +38,4 @@ on:
 > Make sure it is your repository pull request to not propose changes to the upstream repository. From the drop-down list choose the base repository to be yours.
 11. Complete the pull request and delete the source branch
 12. Go to `Actions` and see the details of your running workflow
+13. force a run of lab 4 again, for the pr to run a check
